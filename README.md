@@ -38,6 +38,7 @@
 
   ```bash
   $ sudo wechattweak-cli --install   # 安装
+  $ brew upgrade wechattweak-cli --cask # 更新
   $ sudo wechattweak-cli --uninstall # 卸载
   ```
 
